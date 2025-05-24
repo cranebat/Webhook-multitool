@@ -26,7 +26,7 @@ echo ╔ Webhook spammer (1)
 echo ║
 echo ╠═ Webhook deleter (2)
 echo ║
-echo ╠═══ Change username(3)
+echo ╠═══ Change username (3)
 echo ║
 echo ╚═╦══ Exit (0)
 echo   ║
