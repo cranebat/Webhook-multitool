@@ -29,9 +29,8 @@ echo ║
 echo ╠═══ Change username (3)
 echo ║
 echo ╚═╦══ Exit (0)
-echo   ║
 echo.  ║
-set /p choice=══╩═ Choose an option: 
+set /p choice=══╩═══ Choose an option: 
 
 if "%choice%"=="1" goto option1
 if "%choice%"=="2" goto option2
